@@ -1,0 +1,3 @@
+Simple Eclipse based editors for Semantic Web Languages (Turtle, Jena rules, etc.).
+
+
